@@ -22,7 +22,7 @@ google-tracking-id: "UA-75077733-1"
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
 
-force-https: False
+force-https: True
 
 #############
 # HTML Head #
@@ -109,10 +109,10 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/ycode.png"
     date: "March 2015 - Today"
     description: "iOS Engineer @ Ycode"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/school.jpeg"
     date: "September 2012 - August 2015"
     description: "Started coding"
 
