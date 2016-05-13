@@ -29,10 +29,10 @@ force-https: False
 #############
 
 lang: "en"
-author: "Jhonny Copper"
-title: "{ Jhonny Copper }"
-description: "Blog and website of Jhonny Copper, blogging mainly for tech. Opinions expressed are mine."
-keywords: "jhonny, copper, personal, jekyll, theme"
+author: "Johnny Cooper"
+title: "{ Johnny Cooper }"
+description: "Blog and website of Johnny Cooper, blogging mainly for tech. Opinions expressed are mine."
+keywords: "Johnny, Cooper, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 
 ################
