@@ -109,8 +109,11 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/wiredcraft.png"
+    date: "June 2016 - Now"
+    description: "iOS Engineer @ Wiredcraft"
   - image: "/img/timeline/ycode.jpg"
-    date: "March 2015 - Today"
+    date: "March 2015 - June 2016"
     description: "iOS Engineer @ Ycode"
   - image: "/img/timeline/school.jpeg"
     date: "September 2012 - August 2015"
